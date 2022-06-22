@@ -1,3 +1,3 @@
-module github.com/gridal/utils
+module github.com/dhnikolas/utils/v2
 
 go 1.18
